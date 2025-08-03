@@ -1,10 +1,15 @@
 # 👋 김가현 (Kim GaHyun) — Backend & AI Developer
 
-## 🔧 Tech Stack
+---
+
+## 🔧 Tech Stack (추가중...)
 
 **Backend**: Python, FastAPI, SQLAlchemy, Alembic
-**Database**: PostgreSQL, 
+
+**Database**: PostgreSQL 
+
 **Infra**: GCP VM, Docker, GitHub
+
 **AI**: Gemini API, Prompt Engineering, LLM 기반 분석  
 
 ---
